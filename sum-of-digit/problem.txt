@@ -1,0 +1,9 @@
+Logic:
+
+Take the number.
+Divide the number by 10.
+Add the remainder to a variable.
+Repeat the process until remainder is 0.
+Example:
+
+Given program shows the sum of digits of 14597.
